@@ -1,0 +1,7 @@
+# 状態・生成物
+data/
+out/
+*.pdf
+__pycache__/
+*.pyc
+.venv/
